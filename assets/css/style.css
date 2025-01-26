@@ -1,22 +1,5 @@
 /*
--------------------------------------------------
-  Theme Name:Pair Wedding Theme
-  Theme URL: http://demo.anditthemes.com/html/wedding/
-  Author: And_IT
-  Author URL:  
-  Creation Date:
-  Description:A default stylesheet for Pair Wedding-Responsive Bootstrap HTML5 Template
-  Version: 1.00
-  Primary use: Business, responsive, bootstrap, html5, clean, modern, creative, events, wedding etc.
-  Support: andimpex@gmail.com,
 
-  ---------------------------------------------------
-  Developed By: Suraiya Aysha
-  Developer URL: http://ayshatech.com/
-
-  ---------------------------------------------------
-
-  --------------------------------------------------
   Table of Contents
   --------------------------------------------------
   1. General CSS
@@ -254,7 +237,7 @@ figure {
             2.1 Theme Color
 -----------------------------------*/
 .color-dark,
-.header-caption p,
+.-caption p,
 .bride-groom-social a,
 .friend-social a,
 .story-text h4,
@@ -911,7 +894,7 @@ button:focus {
             5. Header Area
 -------------------------------------------*/
 .hero-content-wrap {
-    background-image: url("../img/header.jpg");
+    background-image: url("../img/header.JPG");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
